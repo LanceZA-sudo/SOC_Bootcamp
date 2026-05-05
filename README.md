@@ -1,6 +1,7 @@
 # Hi, I'm Lance Du Plessis 
- BSc IT Network & Security Engineering — Eduvos (2025)
+ BSc IT Network & Security Engineering Eduvos (2025)
 Currently: Honours in Network & Security (part-time, evenings)
+
 Goal: SOC Analyst | Blue Team | Cybersecurity
 
  Based in Cape Town, South Africa
