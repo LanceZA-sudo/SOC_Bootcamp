@@ -1,4 +1,4 @@
-# Hi, I'm Lance Du Plessis Ø=ÜK
+# Hi, I'm Lance Du Plessis 
  BSc IT Network & Security Engineering — Eduvos (2025)
 Currently: Honours in Network & Security (part-time, evenings)
 Goal: SOC Analyst | Blue Team | Cybersecurity
@@ -9,7 +9,10 @@ Goal: SOC Analyst | Blue Team | Cybersecurity
 **16-Week SOC Analyst Bootcamp** — self-designed, lab-based
  Built around real SOC job descriptions and requirements
  **Home Lab** running 6 VMs:
- Kali Linux | Ubuntu (SIEM) | Windows Server 2022 | Windows 10
+ - Kali Linux 
+ - Ubuntu (SIEM) 
+ - Windows Server 2022 
+ - Windows 10
 **Live SIEM** — Elastic Stack ingesting real logs
  Custom detection rules mapped to MITRE ATT\&CK
 ---
