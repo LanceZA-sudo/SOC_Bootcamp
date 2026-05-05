@@ -6,8 +6,8 @@ Goal: SOC Analyst | Blue Team | Cybersecurity
  Based in Cape Town, South Africa
 ---
 ## What I'm Building Right Now
-**16-Week SOC Analyst Bootcamp** — self-designed, lab-based
- Built around real SOC job descriptions and requirements
+**16-Week SOC Analyst Bootcamp** 
+A self-designed, lab-based Built around real SOC job descriptions and requirements
  **Home Lab** running 6 VMs:
  - Kali Linux 
  - Ubuntu (SIEM) 
