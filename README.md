@@ -14,6 +14,7 @@ A self-designed, lab-based Built around real SOC job descriptions and requiremen
  - Ubuntu (SIEM) 
  - Windows Server 2022 
  - Windows 10
+ 
 **Live SIEM** — Elastic Stack ingesting real logs
  Custom detection rules mapped to MITRE ATT\&CK
 ---
